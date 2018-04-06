@@ -1,0 +1,8 @@
+name: Spawner-By-Ben420
+main: Ben420\Main
+version: 1.0.0
+api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11]
+author: Ben420
+commands:
+  spawner:
+    description: The command is /spawner
