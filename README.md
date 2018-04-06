@@ -1,6 +1,9 @@
-echo "# SpawnersPE" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Ben420/SpawnersPE.git
-git push -u origin master
+# SpawnersPE
+SpawnersPE by Ben420
+
+--------NOTICE--------
+Must have EconomyAPI to use this plugin!
+----------------------
+
+command:
+/spawner {mob} (see "settings.yml" to see all the mobs and prices!)
